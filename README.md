@@ -1,3 +1,7 @@
+https://bitcointalk.org/index.php?action=profile;u=1364542 author MixMAx123
+
+
+
 # Bitcoin-Address-Generator
 Generate Bitcoin private key and Bitcoin address
 
